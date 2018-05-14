@@ -1,8 +1,8 @@
-Project Compile:
+# Project Compile
 
 g++ main.cpp -o project1
 
-Project Run:
+# Project Run
 
 ./project1 bfs
 
