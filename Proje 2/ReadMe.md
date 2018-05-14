@@ -1,7 +1,8 @@
-compile:
-
+# Compile
+```
 g++ main.cpp -o project2
-
-run:
-
+```
+# Run
+```
 ./project2 data/<dataset_name>.txt
+```
